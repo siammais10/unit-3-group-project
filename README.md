@@ -11,18 +11,18 @@ Create a remote repository for this project using `git clone {{YOUR REPO LINK}}`
 Each time you work on something in the project, you must do the following steps.
 
 1. Navigate to the directory of your remote repository using
-  - `cd {{folder-name}}`
+    - `cd {{folder-name}}`
 2. create a branch separate from the main branch. To do this, in the terminal type
-  - `git branch {{branch-name}}`
-  - The `branch-name` should correlate to the feature you are working on
+    - `git branch {{branch-name}}`
+    - The `branch-name` should correlate to the feature you are working on
 
 3. Checkout the branch you created using
-  - `git checkout {{branch-name}}`
+    - `git checkout {{branch-name}}`
 4. Save the files you worked on in the remote directory you are working in.
 5. Add the files you worked on to a branch using
-  - `git add .`
+    - `git add .`
 6. Commit the files to your branch using a commit message using
-  - `git commit -m {{your commit message explaining your changes}}`
+    - `git commit -m {{your commit message explaining your changes}}`
 7. Push the changes to the working directory using
-  - `git push`
+    - `git push`
 8. Create a pull request to merge with the main branch in github.
