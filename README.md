@@ -4,4 +4,6 @@ Use [this link](https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhd
 
 Create a remote repository for this project using `git clone {{YOUR REPO LINK}}`. Get the repository link in the top right corner of the screen.
 
+<p align="center">
 ![repo link](/repolink.png)
+</p>
