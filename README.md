@@ -26,3 +26,6 @@ Each time you work on something in the project, you must do the following steps.
 7. Push the changes to the working directory using
     - `git push`
 8. Create a pull request to merge with the main branch in github.
+
+
+Look [here](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) for a list of useful github commands that you might use in your terminal.
