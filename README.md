@@ -1,6 +1,6 @@
 # Unit 3 Group Project
 
-Use <a href="https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhdiL_8Jtmziaxilo4/copy" target="_blank">this link</a> to access the project instructions for this project.
+Use <a href="https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhdiL_8Jtmziaxilo4/copy" target="_blank" rel="noopener">this link</a> to access the project instructions for this project.
 
 Create a remote repository for this project using `git clone {{YOUR REPO LINK}}`. Get the repository link in the top right corner of the screen.
 
