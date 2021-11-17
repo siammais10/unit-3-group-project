@@ -5,7 +5,7 @@ Use [this link](https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhd
 Create a remote repository for this project using `git clone {{YOUR REPO LINK}}`. Get the repository link in the top right corner of the screen.
 
 <p align="center">
-<img src="/repolink.png" alt="repo link">
+<img src="/repolink1.png" alt="repo link">
 </p>
 
 Each time you work on something in the project, you must do the following steps.
