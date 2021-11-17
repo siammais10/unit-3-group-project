@@ -1,2 +1,5 @@
-# unit-3-group-project
-Unit 3 Group Project Template
+# Unit 3 Group Project
+
+Use [this link](https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhdiL_8Jtmziaxilo4/copy) to access the project instructions for this project.
+
+Create a remote repository for this project using `git clone {{\}}`
