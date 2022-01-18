@@ -22,7 +22,7 @@ Each time you work on something in the project, you must do the following steps.
 5. Add the files you worked on to a branch using
     - `git add .`
 6. Commit the files to your branch using a commit message using
-    - `git commit -m {{your commit message explaining your changes}}`
+    - `git commit -m "{{your commit message explaining your changes}}"`
 7. Push the changes to the working directory using
     - `git push`
 8. Create a pull request to merge with the main branch in github.
